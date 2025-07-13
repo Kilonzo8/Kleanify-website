@@ -1,0 +1,44 @@
+body {
+  font-family: Arial ,sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color:#f4f4f4;
+  color:#333;
+}
+header {
+  background-color: #0080ff;
+  color:white;
+  padding: 20px;
+  text-align:center
+}
+na a {
+  color:white
+  margin:0 15px;
+  text decoration:none
+  front-weight:bold
+}
+main{
+  padding:30px
+  text-align:left
+}
+footer{
+  text-align:center;
+  background-color:#ccc;
+  padding: 10px
+}
+table{
+  width:100%
+  border-collapse
+  margin-top:20px
+}
+table, th,td{
+  border:1px solid #aaa;
+  padding:10px;
+  text align:left
+}
+input,textarea{
+  width:100%;
+  padding:8px;
+  margin-top:5px
+  box-sizing:border-box;
+}
